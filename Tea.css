@@ -43,10 +43,15 @@ header {
 
 /*Large*/
 
+.large {
+  text-align: center;
+}
+
 .mission{
   text-align: center;
   border: 1px solid black;
   width:1200px;
-
-
+  position: absolute;
+  top: 50%;
+  background-color: black;
 }
