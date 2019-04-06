@@ -1,0 +1,52 @@
+/*Universal*/
+body {
+  font-family: helvetica;
+  font-size: 22px;
+  background-color:black;
+  color:seashell;
+  opacity: 0.9;
+}
+
+
+/*header*/
+header {
+  display: flex;
+  z-index:1;
+  position: fixed;
+  top:-5px;
+  width:100%;
+  height:69px;
+  border-bottom: 1px solid seashell;
+  background-color: black;
+
+
+ }
+
+ header img {
+   padding: 10px;
+   height: 50px;
+   width: 70%;
+   }
+
+   nav span {
+     display: inline-block;
+     padding: 20px 10px;
+     color:seashell;
+   }
+ .bleh {
+   position: fixed;
+   display:inline-block;
+   text-align: right;
+   width: 100%;
+   color: seashell;
+ }
+
+/*Large*/
+
+.mission{
+  text-align: center;
+  border: 1px solid black;
+  width:1200px;
+
+
+}
