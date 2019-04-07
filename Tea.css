@@ -31,14 +31,14 @@ header {
    nav span {
      display: inline-block;
      padding: 20px 10px;
-     color:seashell;
+
    }
  .bleh {
    position: fixed;
    display:inline-block;
    text-align: right;
    width: 100%;
-   color: seashell;
+
  }
 
 /*Large*/
@@ -48,10 +48,57 @@ header {
 }
 
 .mission{
+  position: absolute;
   text-align: center;
   border: 1px solid black;
-  width:1200px;
-  position: absolute;
-  top: 50%;
+  width:1350px;
+  top: 40%;
   background-color: black;
+}
+
+/*Medium*/
+
+
+
+.month {
+  Color white;
+  text-align: center;
+}
+.image  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.berryblitz {
+  padding-left: 20%;
+  text-align: left;
+
+}
+
+.tea {
+
+  text-align: center;
+
+}
+
+.donut {
+    padding-right: 20%;
+    text-align: right;
+
+}
+
+.image2 {
+  justify-content: space-between;
+  padding: 10px;
+  text-align: center;
+}
+
+.myrtle {
+  justify-content: space-between;
+  text-align: center;
+
 }
