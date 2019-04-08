@@ -70,25 +70,33 @@ header {
   margin-right: auto;
   width: 65%;
   padding: 20px;
-  justify-content: space-between;
+
 }
 
 .berryblitz {
-  padding-left: 20%;
+  display: inline-block;
+  padding-top: 10px;
+  padding-left: 22%;
   text-align: left;
-
+  justify-content: space-between;
 }
 
 .tea {
-
+  display: inline;
+  padding-top: 10px;
+  padding-left: 9%;
   text-align: center;
+  justify-content: space-between;
 
 }
 
 .donut {
+    display: inline;
+    padding-top: 10px;
     padding-right: 20%;
-    text-align: right;
-
+    text-align: center;
+    justify-content: space-between;
+    padding-left: 9%
 }
 
 .image2 {
@@ -98,7 +106,14 @@ header {
 }
 
 .myrtle {
-  justify-content: space-between;
-  text-align: center;
+  display: inline;
+  padding-left: 33%;
+  padding-top: 10px;
 
+}
+
+.bedford {
+  display: inline;
+  padding-left: 10%;
+  padding-top: 10px;
 }
